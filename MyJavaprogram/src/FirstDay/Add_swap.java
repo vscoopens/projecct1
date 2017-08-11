@@ -2,11 +2,11 @@ package FirstDay;
 
 public class Add_swap {
 
-	int a = 1, b = 4, c;
+	int a = 1, b = 4, d;
 
 	public void sum() {
-		c = a + b;
-		System.out.println("Addition is" + c);
+		d = a + b;
+		System.out.println("Addition is" + d);
 	}
 
 	public void sum1() {
